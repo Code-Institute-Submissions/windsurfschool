@@ -1,4 +1,4 @@
-#Windsurfschool
+# Windsurfschool
 This website is designed for windsurfers who want to learn windsurfing. Also there are advanced lessons or expert lessons. This is possible on 2 locations Zandvoort and Scheveningen.
 
 This website consists of the following sections:
