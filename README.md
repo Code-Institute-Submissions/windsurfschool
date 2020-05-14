@@ -43,3 +43,10 @@ General information, windsurf lessons,  locations, reservations, contact and soc
     <li><strong>Reservation</strong> reservation form
     <li><strong>Contact<strong> contact form
 </ul>
+
+
+
+## Mockups & Wireframes
+<ul>
+    <li><a href=https://github.com/remcokes/windsurfschool/tree/master/assets/mockups/mockup_large.pdf>Large screen</a>
+</ul> 
