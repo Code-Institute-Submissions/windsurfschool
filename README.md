@@ -13,7 +13,6 @@ Website demo available <a href="https://windsurfschool.remcokes.repl.co/index.ht
 <br><br>
 ![Windsurfschool Demo](assets/readme_images/demo.jpg)
 
-
 # UX Design
 I wanted to create a user friendly website with all the information that you need to do a windsurf lesson reservation
 
