@@ -68,13 +68,6 @@ General information, windsurf lessons,  locations, reservations, contact and soc
 
 * __FontAwesome__ was the preferred library, for the icons used on the website
 
-
-## Languages
-<ul>
-    <li>HTML
-    <li>CSS
-</ul>
-
 ## Frameworks / Tools / Libraries
 <ul>
     <li><a href="https://balsamiq.com/">Balsamiq</a> for the mockups.
@@ -108,18 +101,13 @@ Ending with the README.md.
 
 ## Media
 The photos used in this website were obtained from 
-navbar_image
-<a href="https://www.pexels.com/photo/people-walking-3176048/ ">Pexels</a>.
-General_image
-<a href="https://www.stockvault.net/photo/185984/city-surf/ "> Stockvault </a>.
-Zandvoort
-<a href="https://pixabay.com/nl/photos/zandvoort-nederland-stad-stedelijke-82142/">Pixabay</a>.
-Scheveningen
-<a href="https://unsplash.com/photos/hRf79CdmdXk/ ">Unsplash </a>.
-reservations_form_image
-<a href="https://unsplash.com/photos/hRf79CdmdXk/ ">Unsplash </a>.
-contact_form_image
-<a href="https://unsplash.com/photos/hRf79CdmdXk/ ">Unsplash </a>.
+<ul>
+    <li><a href="https://www.pexels.com/photo/people-walking-3176048/ ">navbar_image</a>.
+    <li><a href="https://www.stockvault.net/photo/185984/city-surf/ ">General_image</a>.
+    <li><a href="https://pixabay.com/nl/photos/zandvoort-nederland-stad-stedelijke-82142/">Zandvoort</a>.
+    <li><a href="https://unsplash.com/photos/hRf79CdmdXk/ ">Scheveningen</a>.
+    <li><a href="https://www.pexels.com/photo/man-windsurfing-2534822/">reservations_form_image</a>.
+    <li><a href="https://unsplash.com/photos/Wa-gS5R58gA">contact_form_image</a>.
 
 ## Acknowledgements
 I used a lot of general knowledge from <a href="https://www.w3schools.com">w3schools</a>.
