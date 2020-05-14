@@ -11,7 +11,7 @@ This website consists of the following sections:
 ## Demo 
 Website demo available <a href="https://windsurfschool.remcokes.repl.co/index.html ">here</a>.
 <br><br>
-![Windsurfschool Demo](../assets/readme_images/demo.png)
+![Windsurfschool Demo](assets/readme_images/demo.jpg)
 
 
 # UX Design
