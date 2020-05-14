@@ -79,7 +79,7 @@ General information, windsurf lessons,  locations, reservations, contact and soc
 <ul>
     <li><a href="https://balsamiq.com/">Balsamiq</a> for the mockups.
     <li><a href="https://getbootstrap.com/">Bootstrap</a> for the collapsible navbar, button and the footer icons.
-    <li><a href=”https://fontawesome.com/”>footer icons</a> for the link icons Facebook, Youtube, Instagram.
+    <li><a href=”https://fontawesome.com/”>footer icons</a> for the link Facebook, Youtube, Instagram.
 </ul>
 
 ## Testing
@@ -90,8 +90,7 @@ General information, windsurf lessons,  locations, reservations, contact and soc
 
 
 ## Testing results
-![HTML Validator]( readme_images/htmlvalidator.png)
-![CSSValidator](readme_images/cssvalidator.png)
+
 Google Chrome Developer Tools for testing different device sizes.
 
 # Deployment
