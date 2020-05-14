@@ -42,7 +42,7 @@ General information, windsurf lessons,  locations, reservations, contact and soc
     <li><strong>Home</strong> information about the windsurfschool and the 3 possible lesson offers
     <li><strong>Locations</strong> information about the 2 locations where you could get a lesson
     <li><strong>Reservation</strong> reservation form
-    <li><strong>Contact<strong> contact form
+    <li><strong>Contact</strong> contact form
 </ul>
 
 
@@ -74,7 +74,7 @@ General information, windsurf lessons,  locations, reservations, contact and soc
 <ul>
     <li><a href="https://balsamiq.com/">Balsamiq</a> for the mockups.
     <li><a href="https://getbootstrap.com/">Bootstrap</a> for the collapsible navbar, button and the footer icons.
-    <li><a href=”https://fontawesome.com/”>footer icons</a> for the link Facebook, Youtube, Instagram.
+    <li><a href="https://fontawesome.com/">Fontawesome</a> for the link icons Facebook, Youtube, Instagram.
 </ul>
 
 ## Testing
@@ -117,6 +117,7 @@ The photos used in this website were obtained from
     <li><a href="https://unsplash.com/photos/hRf79CdmdXk/ ">Scheveningen</a>.
     <li><a href="https://www.pexels.com/photo/man-windsurfing-2534822/">reservations_form_image</a>.
     <li><a href="https://unsplash.com/photos/Wa-gS5R58gA">contact_form_image</a>.
+</ul>
 
 ## Acknowledgements
 I used a lot of general knowledge from <a href="https://www.w3schools.com">w3schools</a>.
