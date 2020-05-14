@@ -48,9 +48,10 @@ General information, windsurf lessons,  locations, reservations, contact and soc
 
 ## Mockups & Wireframes
 <ul>
-    <li><a href=https://github.com/remcokes/windsurfschool/tree/master/assets/mockups/mockup_large.pdf>Large screen</a>
+    <li> <a href=https://github.com/remcokes/windsurfschool/tree/master/assets/mockups/mockup_large.pdf>Large screen</a>
+    <li> <a href=https://github.com/remcokes/windsurfschool/tree/master/assets/mockups/mockup_medium.pdf>Medium screen</a>
+    <li> <a href=https://github.com/remcokes/windsurfschool/tree/master/assets/mockups/mockup_small.pdf>Small screen</a>
 </ul> 
-
 
 # Technologies 
 
@@ -83,8 +84,15 @@ General information, windsurf lessons,  locations, reservations, contact and soc
 
 
 ## Testing results
-
+<ul>
+<li> <a href=https://github.com/remcokes/windsurfschool/tree/master/assets/readme_images/css_validator.PNG>CSS validator result</a>
+<li> <a href=https://github.com/remcokes/windsurfschool/tree/master/assets/readme_images/html_checker_index.PNG>html index validator result</a>
+<li> <a href=https://github.com/remcokes/windsurfschool/tree/master/assets/readme_images/html_checker_locations.PNG>html locations validator result</a>
+<li> <a href=https://github.com/remcokes/windsurfschool/tree/master/assets/readme_images/html_checker_reservation.PNG>html reservation validator result</a>
+<li> <a href=https://github.com/remcokes/windsurfschool/tree/master/assets/readme_images/html_checker_contact.PNG>html index contact result</a>
+</ul>
 Google Chrome Developer Tools for testing different device sizes.
+
 
 # Deployment
 I started working on this project in Repl.it because GitPod had a 50 our time limit and I like working from Repl.it more. <br>
