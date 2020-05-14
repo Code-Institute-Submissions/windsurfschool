@@ -50,3 +50,77 @@ General information, windsurf lessons,  locations, reservations, contact and soc
 <ul>
     <li><a href=https://github.com/remcokes/windsurfschool/tree/master/assets/mockups/mockup_large.pdf>Large screen</a>
 </ul> 
+
+
+# Technologies 
+
+* __HTML__ was the language used to structure and present content for the web
+
+* __CSS3__ was the language used in the styling and formatting the website content, to improve the UX.
+
+* __GitPod__ was the cloud-based IDE used, to write, run, and debug code with the web browser and to create the website.
+
+* __Bootstrap__ a front-end component library, that was used to build responsive, mobile-first projects on the website.
+ 
+* __Chrome Developer Tools__ was used to ensure that the responsive design worked properly.
+ 
+* __GitHub__ was used for version control, o have a working copy/snippet of the code and full change history on the local machine.
+
+* __FontAwesome__ was the preferred library, for the icons used on the website
+
+
+## Languages
+<ul>
+    <li>HTML
+    <li>CSS
+</ul>
+
+## Frameworks / Tools / Libraries
+<ul>
+    <li><a href="https://balsamiq.com/">Balsamiq</a> for the mockups.
+    <li><a href="https://getbootstrap.com/">Bootstrap</a> for the collapsible navbar, button and the footer icons.
+    <li><a href=”https://fontawesome.com/”>footer icons</a> for the link icons Facebook, Youtube, Instagram.
+</ul>
+
+## Testing
+<ul>
+    <li><a href="https://validator.w3.org/">HTML Validator</a> for testing the HTML code.
+    <li><a href="https://jigsaw.w3.org/css-validator/">CSS Validator</a> for testing the CSS code.
+</ul>  
+
+
+## Testing results
+![HTML Validator]( readme_images/htmlvalidator.png)
+![CSSValidator](readme_images/cssvalidator.png)
+Google Chrome Developer Tools for testing different device sizes.
+
+# Deployment
+I started working on this project in Repl.it because GitPod had a 50 our time limit and I like working from Repl.it more. <br>
+I used GitPod for backups and to publish my website for the Milestone project 1<br>
+This website starts with the: index.html, followed by the map ‘assets’, with a map of ‘images’ and a map of ‘css’. <br>
+I used locations.html, for the locations page.<br>
+I used reservation.html, for the reservation page.<br>
+I used contact.html, for the contact page.<br>
+In the ’css’ map you will find the page: style.css.<br>
+A map called 'mockups' with small, medium and large wireframes.<br>
+A map called ‘images' with an images.<br>
+A map called ‘readme_images' with testing screenschots <br>
+Ending with the README.md.
+
+## Media
+The photos used in this website were obtained from 
+navbar_image
+<a href="https://www.pexels.com/photo/people-walking-3176048/ ">Pexels</a>.
+General_image
+<a href="https://www.stockvault.net/photo/185984/city-surf/ "> Stockvault </a>.
+Zandvoort
+<a href="https://pixabay.com/nl/photos/zandvoort-nederland-stad-stedelijke-82142/">Pixabay</a>.
+Scheveningen
+<a href="https://unsplash.com/photos/hRf79CdmdXk/ ">Unsplash </a>.
+reservations_form_image
+<a href="https://unsplash.com/photos/hRf79CdmdXk/ ">Unsplash </a>.
+contact_form_image
+<a href="https://unsplash.com/photos/hRf79CdmdXk/ ">Unsplash </a>.
+
+## Acknowledgements
+I used a lot of general knowledge from <a href="https://www.w3schools.com">w3schools</a>.
