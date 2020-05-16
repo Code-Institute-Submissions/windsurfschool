@@ -44,7 +44,27 @@ General information, windsurf lessons,  locations, reservations, contact and soc
     <li><strong>Contact</strong> contact form
 </ul>
 
-
+## Skeleton
+<ul>
+    <li><strong>Header</strong><br> 
+    The header is responsive to small, medium and large devices.
+    <li><strong>Small and medium devices</strong><br> 
+    On small and medium devices the title and a collapsible menu will be shown.<br>
+    On small devices some pictures are smaller for a more user friendly website.<br>
+    Each row will be shown vertical, for better readability.
+    <li><strong>Large devices</strong><br> 
+    On large devices the title and full menu will be shown.<br>
+    Each row will be shown horizontal.
+    <li><strong>Menu links</strong><br>
+     The menu links are internal links and will lead to the right part on the website.
+    <li><strong>Reservation form</strong><br>
+    The reservation form has required attributes which are needed for a windsurf lesson reservation.
+    <li><strong>Contact form</strong><br>
+    The contact form has required attributes which are needed before submitting the form.
+    <li><strong>Footer</strong><br>
+    In the footer the social media links will be found, which are external links.
+    <li><strong>Title</strong><br> 
+</ul>
 
 ## Mockups & Wireframes
 <ul>
@@ -82,7 +102,6 @@ General information, windsurf lessons,  locations, reservations, contact and soc
     <li><a href="https://jigsaw.w3.org/css-validator/">CSS Validator</a> for testing the CSS code.
 </ul>  
 
-
 ## Testing results
 <ul>
 <li> <a href=https://github.com/remcokes/windsurfschool/tree/master/assets/readme_images/css_validator.PNG>CSS validator result</a>
@@ -92,6 +111,10 @@ General information, windsurf lessons,  locations, reservations, contact and soc
 <li> <a href=https://github.com/remcokes/windsurfschool/tree/master/assets/readme_images/html_checker_contact.PNG>html index contact result</a>
 </ul>
 Google Chrome Developer Tools for testing different device sizes.
+
+# Testing information
+Tested in multiple browser’s (Edge, Chrome, Safari, Internet Explorer, Firefox).<br> 
+And tested in multiple small and medium devices (Galaxy S5, Pixel 2, Pixel 2 XL, iPhone 6/7/8, iPhone 6/7/8 Plus, iPhone X, iPad, iPad Pro.)
 
 # Deployment
 I started working on this project in Repl.it because GitPod had a 50 our time limit and I like working from Repl.it more. <br>
