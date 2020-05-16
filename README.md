@@ -22,7 +22,7 @@ I wanted to create a user friendly website with all the information that you nee
 <strong>User Story 2:</strong> Some advanced windsurfer who want to learn windsurfing using board footstraps <br><br>
 <strong>User Story 3:</strong> Some advanced windsurfer who want to learn windsurfing with harness lines
 <br><br>
-<strong>User Story 4:</strong> good windsurfers who want to tricks like wave riding
+<strong>User Story 4:</strong> good windsurfers who want to learn tricks like wave riding
 <br><br>
 <strong>User Story 5:</strong> good windsurfers who want to learn loops<br><br>
 <strong>User Story 6:</strong> good windsurfers who want to learn race techniques
