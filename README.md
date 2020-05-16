@@ -63,7 +63,6 @@ General information, windsurf lessons,  locations, reservations, contact and soc
     The contact form has required attributes which are needed before submitting the form.
     <li><strong>Footer</strong><br>
     In the footer the social media links will be found, which are external links.
-    <li><strong>Title</strong><br> 
 </ul>
 
 ## Mockups & Wireframes
