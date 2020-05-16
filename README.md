@@ -116,6 +116,7 @@ The photos used in this website were obtained from
     <li><a href="https://unsplash.com/photos/hRf79CdmdXk/ ">Scheveningen</a>.
     <li><a href="https://www.pexels.com/photo/man-windsurfing-2534822/">reservations_form_image</a>.
     <li><a href="https://unsplash.com/photos/Wa-gS5R58gA">contact_form_image</a>.
+    <li><a href="https://unsplash.com/photos/sXzuRmorw7o">locations_image</a>.
 </ul>
 
 ## Acknowledgements
