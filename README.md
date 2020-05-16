@@ -93,7 +93,6 @@ General information, windsurf lessons,  locations, reservations, contact and soc
 </ul>
 Google Chrome Developer Tools for testing different device sizes.
 
-
 # Deployment
 I started working on this project in Repl.it because GitPod had a 50 our time limit and I like working from Repl.it more. <br>
 I used GitPod for backups and to publish my website for the Milestone project 1<br>
@@ -107,10 +106,38 @@ A map called ‘images' with an images.<br>
 A map called ‘readme_images' with testing screenschots <br>
 Ending with the README.md.
 
+## New Repository
+The following steps show how I created my website in GitHub and GitPod:
+<ol>
+    <li>In GitHub I clicked the green button with <strong>New</strong>, which creates a new repository;
+    <li>I clicked the green button <strong>GitPod</strong>, to open my new repository in GitPod;
+    <li>I added new folders and files by clicking <strong>File</strong>, followed by <strong>New Folder</strong> or <strong>New File</strong>;
+    <li>When a part was finished, I selected <strong>File</strong>, and <strong>Save</strong> or Ctrl+s;
+    <li>Than I clicked on <strong>Source Control: Git</strong>;
+    <li>Followed by filling in the <strong>Message name</strong> for this commit;
+    <li>Than I pressed on the <strong>+ icon</strong> to stage all changes;
+    <li>On the top you see a <strong>V icon</strong>, which I clicked for the commit;
+    <li>On the right side I clicked the cat icon which is called <strong>Pull Request</strong>;
+    <li>A collored pop-up shown with a blue button <strong>Push</strong>, which I clicked on, to push the commit to GitHub;
+    <li>In GitHub I can see all my folders and files with the Message name of my last changes.
+</ol>
+
+## Deployment in GitHub
+The following steps show how my website was deployed in GitHub:
+<ol>
+    <li>I logged in to <strong>GitHub</strong> and selected my repository;
+    <li>I clicked on the tab <strong>Settings</strong>;
+    <li>I scrolled down to the <strong>GitHub Pages</strong> section;
+    <li>On the Select source drop-down menu I selected <strong>master branch</strong> as my GitHub Pages publishing source;
+    <li>Then I clicked <strong>Save</strong>.
+</ol>
+The deployed site will update automatically upon new commits to the master branch. <br>
+Note: the landing page must be named index.html.
+
 ## Clone and contribute
 The following steps show how you can clone my repository:
 <ol>
-    <li>In GitHub go to <a href="https://github.com/kimkesdev/DogMassagePluto">my repository</a>;
+    <li>In GitHub go to <a href="https://remcokes.github.io/windsurfschool/">windsurfschool</a>;
     <li>Press the <strong>Fork</strong> button on the right top of the page, to create a copy of the repository in your own GitHub account;
     <li>On your GitHub account, open the forked repository and click on the green <strong>Clone or Download</strong> button;
     <li>In the Clone with HTTPS section you can copy the repository url;
@@ -120,7 +147,6 @@ The following steps show how you can clone my repository:
     <li>Your local repository will be created when you press <strong>enter</strong>;
     <li>Make the changes you want and push them to the <strong>Master Default branch</strong> with a good message name.
 </ol>
-
 
 ## Media
 The photos used in this website were obtained from 
