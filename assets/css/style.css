@@ -86,6 +86,15 @@
   margin-bottom: 30px;
 }
 
+.locations_image {
+  background: url("../images/locations_image.jpg") no-repeat center center;
+  margin-top: 100px;
+  background-size: cover;
+  min-height: 400px;
+  overflow: hidden;
+  position: relative;
+}
+
 .zandvoort-image {
   background: url("../images/zandvoort.jpg") no-repeat center center;
   min-height: 150px;
@@ -182,7 +191,7 @@ margin-bottom: 30px;
   background-color: #e6e6e679;
   max-width: 400px;
   position: absolute;
-  left: 28%;
+  left: 15%;
   padding: 30px 30px 30px 30px;
 }
 
@@ -282,6 +291,15 @@ font-size: 10px;
   position: relative;
 }
 
+.locations_image {
+  background: url("../images/locations_image.jpg") no-repeat center center;
+  margin-top: 70px;
+  background-size: cover;
+  min-height: 150px;
+  overflow: hidden;
+  position: relative;
+}
+
 .signup-form {
   margin-top: 125px;
   color: #fff;
@@ -295,7 +313,8 @@ font-size: 10px;
   color: #666666;
   background-color: #e6e6e679;
   max-width: 300px;
-  padding: 10px 10px 10px 10px;
+  position: absolute;
+  padding: 15px 15px 15px 15px;
 }
 
 }
