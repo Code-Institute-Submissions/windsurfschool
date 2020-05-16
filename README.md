@@ -112,7 +112,7 @@ General information, windsurf lessons,  locations, reservations, contact and soc
 Google Chrome Developer Tools for testing different device sizes.
 
 # Testing information
-Tested in multiple browser’s (Edge, Chrome, Safari, Internet Explorer, Firefox).<br> 
+Tested in multiple browser’s (Edge, Chrome, Firefox).<br> 
 And tested in multiple small and medium devices (Galaxy S5, Pixel 2, Pixel 2 XL, iPhone 6/7/8, iPhone 6/7/8 Plus, iPhone X, iPad, iPad Pro.)
 
 # Deployment
