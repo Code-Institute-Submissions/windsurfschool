@@ -124,7 +124,7 @@ I used reservation.html, for the reservation page.<br>
 I used contact.html, for the contact page.<br>
 In the ’css’ map you will find the page: style.css.<br>
 A map called 'mockups' with small, medium and large wireframes.<br>
-A map called ‘images' with an images.<br>
+A map called ‘images' with the images.<br>
 A map called ‘readme_images' with testing screenschots <br>
 Ending with the README.md.
 
