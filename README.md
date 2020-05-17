@@ -116,9 +116,9 @@ Tested in multiple browser’s (Edge, Chrome, Firefox).<br>
 And tested in multiple small and medium devices (Galaxy S5, Pixel 2, Pixel 2 XL, iPhone 6/7/8, iPhone 6/7/8 Plus, iPhone X, iPad, iPad Pro.)
 
 # Deployment
-I started working on this project in Repl.it because GitPod had a 50 our time limit and I like working from Repl.it more. <br>
+I started working on this project in Repl.it because GitPod had an 50 hour time limit and I like working from Repl.it more. <br>
 I used GitPod for backups and to publish my website for the Milestone project 1<br>
-This website starts with the: index.html, followed by the map ‘assets’, with a map of ‘images’ and a map of ‘css’. <br>
+This website starts with the: index.html, followed by the map ‘assets’, with a map of ‘images’, ‘readme_images’, ‘css’. <br>
 I used locations.html, for the locations page.<br>
 I used reservation.html, for the reservation page.<br>
 I used contact.html, for the contact page.<br>
