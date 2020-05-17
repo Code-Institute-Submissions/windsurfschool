@@ -4,7 +4,7 @@ This website is designed for windsurfers who want to learn windsurfing. Also the
 This website consists of the following sections:
 <ol>
     <li><strong>Home</strong> – this section provides the Windsurfschool information
-    <li><strong>Locations</strong> – this section provides the 2 locations.
+    <li><strong>Locations</strong> – this section provides the 2 locations
     <li><strong>Reservation</strong> – here you can make a reservation 
  <li><strong>Contact</strong> – here you fill in a contact form</ol>
 
@@ -56,7 +56,7 @@ General information, windsurf lessons,  locations, reservations, contact and soc
     On large devices the title and full menu will be shown.<br>
     Each row will be shown horizontal.
     <li><strong>Menu links</strong><br>
-     The menu links are internal links and will lead to the right part on the website.
+     The menu links will link you to the right page on the website.
     <li><strong>Reservation form</strong><br>
     The reservation form has required attributes which are needed for a windsurf lesson reservation.
     <li><strong>Contact form</strong><br>
