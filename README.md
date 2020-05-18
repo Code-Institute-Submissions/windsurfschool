@@ -44,7 +44,7 @@ General information, windsurf lessons,  locations, reservations, contact and soc
     <li><strong>Contact</strong> contact form
 </ul>
 
-## Skeleton
+## Features
 <ul>
     <li><strong>Header</strong><br> 
     The header is responsive to small, medium and large devices.
