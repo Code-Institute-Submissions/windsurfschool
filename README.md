@@ -13,7 +13,7 @@ Website demo available <a href="https://windsurfschool.remcokes.repl.co/index.ht
 <br><br>
 ![Windsurfschool Demo](assets/readme_images/demo.jpg)
 
-# UX Design
+## UX Design
 I wanted to create a user friendly website with all the information that you need to do a windsurf lesson reservation.
 
 ## User Stories
@@ -72,7 +72,7 @@ General information, windsurf lessons,  locations, reservations, contact and soc
     <li> <a href=https://github.com/remcokes/windsurfschool/tree/master/assets/mockups/mockup_small.pdf>Small screen</a>
 </ul> 
 
-# Technologies 
+## Technologies 
 
 * __HTML__ was the language used to structure and present content for the web
 
@@ -111,11 +111,11 @@ General information, windsurf lessons,  locations, reservations, contact and soc
 </ul>
 Google Chrome Developer Tools for testing different device sizes.
 
-# Testing information
+## Testing information
 Tested in multiple browser’s (Edge, Chrome, Firefox).<br> 
 And tested in multiple small and medium devices (Galaxy S5, Pixel 2, Pixel 2 XL, iPhone 6/7/8, iPhone 6/7/8 Plus, iPhone X, iPad, iPad Pro.)
 
-# Deployment
+## Deployment
 I started working on this project in Repl.it because GitPod had an 50 hour time limit and I like working from Repl.it more. <br>
 I used GitPod for backups and to publish my website for the Milestone project 1<br>
 This website starts with the: index.html, followed by the map ‘assets’, with a map of ‘images’, ‘readme_images’, ‘css’. <br>
